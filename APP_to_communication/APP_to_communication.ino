@@ -190,4 +190,4 @@ void loop() {
 //   15:38:26.256 -> Tool Mode function activated!
 //   15:38:26.288 -> Lights: 1
 //   15:38:26.288 -> Emergency: 1
-//   15:38:26.331 -> Tool Type: 4
+//   15:38:26.331 -> Tool Type: 4 --.prasath
